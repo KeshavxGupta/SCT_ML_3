@@ -40,6 +40,7 @@ myenv/
 test1/
 # Ignore model files
 *.pkl
+*.csv
 
 # Jupyter Notebook
 .ipynb_checkpoints
